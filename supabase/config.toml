@@ -1,0 +1,6 @@
+
+project_id = "fsyxlkpudwjqzzxgrxsz"
+
+[functions]
+[functions.doctor-ai]
+verify_jwt = false
