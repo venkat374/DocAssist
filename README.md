@@ -1,7 +1,7 @@
+# 📢 Project Status Update
 ⚠️ Note: This project was originally built for a hackathon and depends on external APIs (Supabase & Gemini 2.0 Flash) which are no longer active or accessible. As a result, some core functionalities like user authentication, symptom analysis, and AI-driven recommendations may not work as expected if you try to run this project locally today.
 
 The repo remains available for reference and demonstration of project structure, code quality, and AI integration patterns.
-
 # DocAssist 🩺💡
 
 ## 🏆 Project Overview
